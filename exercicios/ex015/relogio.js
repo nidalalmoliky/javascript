@@ -11,7 +11,7 @@
     para ser replicada - integral ou parcialmente - 
     por autores/editoras/instituições para criar livros 
     ou apostilas, com finalidades de obter ganho financeiro 
-    com ele.
+    com ele.// thanks you 
 */
 
 function info() {
